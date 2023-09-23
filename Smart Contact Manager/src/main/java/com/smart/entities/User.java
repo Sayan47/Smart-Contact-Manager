@@ -102,4 +102,11 @@ public class User {
 		this.contacts = contacts;
 	}
 
+	@Override
+	public String toString() {
+		return "User [id=" + id + ", name=" + name + ", email=" + email + ", password=" + password + ", imageURL="
+				+ imageURL + ", about=" + about + ", role=" + role + ", enabled=" + enabled + ", contacts=" + contacts
+				+ "]";
+	}
+
 }
