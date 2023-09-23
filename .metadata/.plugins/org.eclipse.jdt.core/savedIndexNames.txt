@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Projects\Smart Contact Manager\.metadata\.plugins\org.eclipse.jdt.core
+2260578983.index
+1865797976.index
+2593717091.index
