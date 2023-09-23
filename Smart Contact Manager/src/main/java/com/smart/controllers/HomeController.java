@@ -12,5 +12,11 @@ public class HomeController {
 		map.addAttribute("title", "Smart Contact Manager");
 		return "home";
 	}
+	
+	@GetMapping("/signup")
+	public String signup(ModelMap map) {
+		map.addAttribute("title", "Signup");
+		return "signup";
+	}
 
 }

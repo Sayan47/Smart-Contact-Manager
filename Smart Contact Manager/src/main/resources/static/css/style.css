@@ -9,3 +9,16 @@ body{
 	background-size: cover;
 	color: white;
 }
+
+.my-card{
+	padding: 20px;
+	background: aliceblue;
+}
+
+label, input {
+    display: block;
+}
+
+label {
+    margin-top: 20px;
+}
